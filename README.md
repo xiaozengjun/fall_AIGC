@@ -42,3 +42,5 @@ https://admins.taoxiangyoushu.com/#/register?code=e87IbsW8
 
 ![image-20260203180138539](./image-20260203180138539.png)
 
+* 平台操作文档: https://taoxiang.feishu.cn/wiki/YDjrw750WiRvghkmdh9cPyENnld?from=from_copylink
+
